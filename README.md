@@ -27,5 +27,6 @@ Flash self-compiled LineageOS
 ## See releases for the zip files 
 
 ```bash
+export GITHUB_TOKEN=ghjrejkrejkrjekjrkejrkjek
 github-release upload  --user sale2000 --repo motog5 --tag v0.2.0  --name "XT1676_CEDRIC_RETEU_DS_8.1.0_OPPS28.85-13-4_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip" --file  XT1676_CEDRIC_RETEU_DS_8.1.0_OPPS28.85-13-4_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
 ```
