@@ -1,7 +1,0 @@
-
-fastboot flash recovery twrp-3.5.2_9-0-cedric.img
-
-fastboot boot twrp-3.5.2_9-0-cedric.img
-
-fastboot flash modem NON-HLOS.bin
-fastboot flash dsp adspso.bin
